@@ -16,5 +16,5 @@ This project was developed to help people learn and view the inner working of va
 3. Selection Sort
 4. Merge Sort
 5. Quick Sort
-6. Random Quick Sort
+6. Shell Sort
 
