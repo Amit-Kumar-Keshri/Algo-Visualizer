@@ -1,6 +1,6 @@
 # Algo Visualizer 
 
-This project was developed to help people learn and view the inner working of various sorting algorithms. You can access it here. [algovisual.netlify.app]().
+This project was developed to help people learn and view the inner working of various sorting algorithms. You can access it here. [visualiser-algo.netlify.app](https://visualiser-algo.netlify.app/).
 
 ## Features.
 
